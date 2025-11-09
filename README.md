@@ -1,13 +1,25 @@
 <h1 align="center">👋 Hi, I'm Taher Abdallah </h1>
-<h3 align="center">Full Stack Web Developer | Laravel Developer</h3>
+<h3 align="center">Backend Developer | Laravel Developer</h3>
 
 ---
 
+<table>
+  <tr>
+    <td width="60%">
+      
 ### 🚀 About Me
 - 🎯 Passionate about Backend Development with Laravel & PHP  
 - 💻 Building scalable and secure web applications  
 - 🌱 Always learning new technologies  
 - 🤝 Open to collaborations  
+- 👨‍💻 As an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
+
+    </td>
+    <td align="center">
+      <img src="https://camo.githubusercontent.com/41dce96615009283b02805ec5234f99bfdae6bbe8aaaedd74cd43bda0b7efcc1/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -19,14 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taher-Abdallah&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taher-Abdallah&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
 
 ### 📫 Connect with me
 
